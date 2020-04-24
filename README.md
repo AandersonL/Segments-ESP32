@@ -5,7 +5,7 @@ This is the repo of the [Segments](https://github.com/AandersonL/Segments-Androi
 
 The third party code was written by [nkolban](https://github.com/nkolban/esp32-snippets), without that this project would probably never be finished.
 
-See the [video](https://streamable.com/o0yyt) that shows how this works in practice.
+See the [video](https://streamable.com/7bslw) that shows how this works in practice.
 
 ### Setup
 Requirements:
